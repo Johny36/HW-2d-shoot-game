@@ -55,7 +55,7 @@ while option != "x":
             by = -1
             score += 10
             print (score)
-            input ("Enter to continue")
+            input ("Is your score, Enter to continue")
         continue
         
 #######################################
